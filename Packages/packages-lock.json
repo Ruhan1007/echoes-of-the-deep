@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "com.unity.modules.audio": {"version":"1.0.0","depth":0,"source":"builtin"},
+    "com.unity.modules.video": {"version":"1.0.0","depth":0,"source":"builtin"}
+  }
+}
